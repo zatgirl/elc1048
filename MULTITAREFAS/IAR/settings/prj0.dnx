@@ -16,11 +16,11 @@
         <ShowSource>1</ShowSource>
     </Trace1>
     <DebugChecksum>
-        <Checksum>2883667206</Checksum>
+        <Checksum>38398041</Checksum>
     </DebugChecksum>
     <Disassembly>
-        <InstrCount>0</InstrCount>
         <MixedMode>1</MixedMode>
+        <InstrCount>0</InstrCount>
     </Disassembly>
     <CodeCoverage>
         <Enabled>0</Enabled>
@@ -49,16 +49,16 @@
         <Fmt1>{W}42:SP	4	0</Fmt1>
     </watch_formats>
     <InterruptLog>
-        <LogEnabled>0</LogEnabled>
         <GraphEnabled>0</GraphEnabled>
+        <LogEnabled>0</LogEnabled>
         <ShowTimeLog>1</ShowTimeLog>
         <SumEnabled>0</SumEnabled>
         <ShowTimeSum>1</ShowTimeSum>
         <SumSortOrder>0</SumSortOrder>
     </InterruptLog>
     <DataLog>
-        <LogEnabled>0</LogEnabled>
         <GraphEnabled>0</GraphEnabled>
+        <LogEnabled>0</LogEnabled>
         <ShowTimeLog>1</ShowTimeLog>
         <SumEnabled>0</SumEnabled>
         <ShowTimeSum>1</ShowTimeSum>
