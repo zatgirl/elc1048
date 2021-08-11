@@ -5261,97 +5261,111 @@
     "scope": null
   },
   {
-    "ID": "c:@F@tarefa_1",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_1(void)",
+    "ID": "c:main.c@76@macro@tamanho",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "tamanho",
     "location": {
-      "column": "6",
-      "line": "8",
+      "column": "9",
+      "line": "4",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "tarefa_1",
+    "name": "tamanho",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:@F@tarefa_2",
+    "ID": "c:@F@tarefa_produtor",
     "What": "Function",
     "defdec": "Dec",
-    "display": "void tarefa_2(void)",
+    "display": "void tarefa_produtor(void)",
     "location": {
       "column": "6",
       "line": "9",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "tarefa_2",
+    "name": "tarefa_produtor",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:@F@tarefa_3",
+    "ID": "c:@F@tarefa_consumidor",
     "What": "Function",
     "defdec": "Dec",
-    "display": "void tarefa_3(void)",
+    "display": "void tarefa_consumidor(void)",
     "location": {
       "column": "6",
       "line": "10",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "tarefa_3",
+    "name": "tarefa_consumidor",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@232@macro@TAM_PILHA_1",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_1",
+    "ID": "c:@buffer",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "buffer",
     "location": {
-      "column": "9",
-      "line": "15",
+      "column": "5",
+      "line": "12",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "TAM_PILHA_1",
+    "name": "buffer",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@278@macro@TAM_PILHA_2",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_2",
+    "ID": "c:@produtos",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "produtos",
     "location": {
-      "column": "9",
-      "line": "16",
+      "column": "5",
+      "line": "13",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "TAM_PILHA_2",
+    "name": "produtos",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@324@macro@TAM_PILHA_3",
+    "ID": "c:main.c@284@macro@TAM_PILHA_PRODUTOR",
     "What": "MacroDef",
     "defdec": "Def",
-    "display": "TAM_PILHA_3",
+    "display": "TAM_PILHA_PRODUTOR",
     "location": {
       "column": "9",
-      "line": "17",
+      "line": "18",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "TAM_PILHA_3",
+    "name": "TAM_PILHA_PRODUTOR",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@370@macro@TAM_PILHA_OCIOSA",
+    "ID": "c:main.c@336@macro@TAM_PILHA_CONSUMIDOR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_CONSUMIDOR",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_CONSUMIDOR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@390@macro@TAM_PILHA_OCIOSA",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "TAM_PILHA_OCIOSA",
     "location": {
       "column": "9",
-      "line": "18",
+      "line": "20",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "TAM_PILHA_OCIOSA",
@@ -5359,44 +5373,72 @@
     "scope": null
   },
   {
-    "ID": "c:@PILHA_TAREFA_1",
+    "ID": "c:@vazio",
     "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_1",
+    "defdec": "Def",
+    "display": "vazio",
     "location": {
-      "column": "10",
+      "column": "12",
+      "line": "22",
+      "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "vazio",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cheio",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cheio",
+    "location": {
+      "column": "12",
       "line": "23",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "PILHA_TAREFA_1",
+    "name": "cheio",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:@PILHA_TAREFA_2",
+    "ID": "c:@count",
     "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_2",
+    "defdec": "Def",
+    "display": "count",
     "location": {
-      "column": "10",
-      "line": "24",
-      "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_3",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_3",
-    "location": {
-      "column": "10",
+      "column": "9",
       "line": "25",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "PILHA_TAREFA_3",
+    "name": "count",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_PRODUTOR",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_PRODUTOR",
+    "location": {
+      "column": "10",
+      "line": "30",
+      "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_PRODUTOR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_CONSUMIDOR",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_CONSUMIDOR",
+    "location": {
+      "column": "10",
+      "line": "31",
+      "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_CONSUMIDOR",
     "origin": "project_file",
     "scope": null
   },
@@ -5407,7 +5449,7 @@
     "display": "PILHA_TAREFA_OCIOSA",
     "location": {
       "column": "10",
-      "line": "26",
+      "line": "32",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "PILHA_TAREFA_OCIOSA",
@@ -5421,7 +5463,7 @@
     "display": "int main(void)",
     "location": {
       "column": "5",
-      "line": "31",
+      "line": "37",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "main",
@@ -5429,86 +5471,58 @@
     "scope": null
   },
   {
-    "ID": "c:@F@tarefa_1",
+    "ID": "c:@F@tarefa_produtor",
     "What": "Function",
     "defdec": "Def",
-    "display": "void tarefa_1(void)",
+    "display": "void tarefa_produtor(void)",
     "location": {
       "column": "6",
-      "line": "59",
+      "line": "63",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "tarefa_1",
+    "name": "tarefa_produtor",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@1449@F@tarefa_1@a",
+    "ID": "c:main.c@1536@F@tarefa_produtor@produz",
     "What": "Variable",
     "defdec": "Def",
-    "display": "a",
+    "display": "produz",
     "location": {
-      "column": "20",
-      "line": "61",
+      "column": "13",
+      "line": "65",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "a",
+    "name": "produz",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:@F@tarefa_2",
+    "ID": "c:@F@tarefa_consumidor",
     "What": "Function",
     "defdec": "Def",
-    "display": "void tarefa_2(void)",
+    "display": "void tarefa_consumidor(void)",
     "location": {
       "column": "6",
-      "line": "70",
+      "line": "77",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "tarefa_2",
+    "name": "tarefa_consumidor",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@1556@F@tarefa_2@b",
+    "ID": "c:main.c@1861@F@tarefa_consumidor@consome",
     "What": "Variable",
     "defdec": "Def",
-    "display": "b",
+    "display": "consome",
     "location": {
-      "column": "20",
-      "line": "72",
+      "column": "13",
+      "line": "79",
       "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
     },
-    "name": "b",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_3",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_3(void)",
-    "location": {
-      "column": "6",
-      "line": "80",
-      "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@1661@F@tarefa_3@c",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "c",
-    "location": {
-      "column": "20",
-      "line": "82",
-      "path": "C:\\Users\\maure\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "c",
+    "name": "consome",
     "origin": "project_file",
     "scope": null
   },
